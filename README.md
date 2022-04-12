@@ -24,12 +24,12 @@
 
 ------
 ## Telegram 🏪
- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/KillerXspam)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/KillerXspam)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/KillerSquadSpamBot)
 
 ------
 ## Deploy 🚀
-- [![Heroku](https://te.legra.ph/file/f210abed7975ea59303cf.jpg)](#Deploy-To-Heroku)
+[![Heroku](https://te.legra.ph/file/f210abed7975ea59303cf.jpg)](#Deploy-To-Heroku)
 
 ------
 ## Deploy To Heroku
@@ -48,7 +48,7 @@
 - `SUDO_USER`  = Sudo id
 
 ------
-## HellBot Session
+## Session
 
 ### Repl
 - Open Repl Link.
