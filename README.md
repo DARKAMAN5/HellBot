@@ -11,7 +11,7 @@
 </h6>
 
 <h3 align="center">
-  <b>α sмσσтυ αηɖ  ғαsт тεℓεgяαм sραм вσт</b>
+  <b>α sмσσтн αηɖ  ғαsт тεℓεgяαм sραм вσт</b>
 </h3>
 
 ------
@@ -24,7 +24,7 @@
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/KillerXspam)
+ [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/KillerXspam)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/KillerSquadSpamBot)
 
 ------
@@ -44,7 +44,7 @@
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
 - `SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
-- `HANDLER`  =  Your command handler.
+- `HNDLR`  =  Your command handler .
 - `SUDO_USER`  = Sudo id
 
 ------
