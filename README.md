@@ -52,17 +52,16 @@
 
 ------
 
-### ʀερℓιт
-- ᴏᴘᴇɴ ʀᴇᴘʟɪᴛ ʟɪɴᴋ 
+### ʀερℓιт 
 - ᴄʟɪᴄᴋ ᴏɴ ɪᴍᴀɢᴇ
 
 [![яερℓιт](https://te.legra.ph/file/ed5a82d6686d953473f1e.jpg)](https://replit.com/@KillerXaman/KillerXspam)
 
 ------
 ## вяσтнεяs
-- [кιℓℓεяXsнαнιᴅ](https://t.me/KillerXshahid)
+- 💖 [кιℓℓεяXsнαнιᴅ](https://t.me/KillerXshahid)
 
-- [ᴛнσмαs sнεℓвү](https://t.me/THOM4S_SH3LBY)
+- 💖 [ᴛнσмαs sнεℓвү](https://t.me/THOM4S_SH3LBY)
 ------
 
 ## cʀεᴅɪᴛs
