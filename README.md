@@ -35,25 +35,27 @@
 
 ------
 ## ᴅερℓσү тσ нεяυкσ
-- Get All The Necessary Variables And Deploy To Heroku.
-- Some Mandatory Variables Are listed [нεяε](#vαяιαвℓε).
-- Star this repo.
+- ɢᴇᴛ ᴀʟʟ ɴᴇᴄᴇssᴀʀʏ ᴠᴀʀɪᴀʙʟᴇs ᴀɴᴅ ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
+- sᴏᴍᴇ ᴍᴀɴᴅᴀᴛᴏʀʏ ᴠᴀʀɪᴀʙʟᴇs ᴀʀᴇ ʟɪsᴛᴇᴅ [нεяε](#vαяιαвℓεs)
+- sᴛᴀʀ ᴛʜɪs ʀᴇᴘᴏ
+
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARKAMAN5/Deploy-X)
 
 ------
 
 ## vαяιαвℓεs
 
-- `APP_ID`  =  Get this value from my.telegram.org
-- `API_HASH`  =  Get this value from my.telegram.org
-- `SESSION`  =  Get this by using [ʀερℓιт](#ʀερℓιт)
-- `SUDO_USER`  = Sudo id
+- `APP_ID`  =  ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ ᴏʀɢ
+- `API_HASH`  =  ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғᴏʀᴍ ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ ᴏʀɢ
+- `SESSION`  =  ɢᴇᴛ ᴛʜɪs ʙʏ ᴜsɪɴɢ [ʀερℓιт](#ʀερℓιт)
+- `SUDO_USER`  = ᴜsᴇʀ ɪᴅ
 
 ------
 
 ### ʀερℓιт
-- Open Repl Link.
-- Click on image.
+- ᴏᴘᴇɴ ʀᴇᴘʟɪᴛ ʟɪɴᴋ 
+- ᴄʟɪᴄᴋ ᴏɴ ɪᴍᴀɢᴇ
+
 [![яερℓιт](https://te.legra.ph/file/ed5a82d6686d953473f1e.jpg)](https://replit.com/@KillerXaman/KillerXspam)
 
 ------
@@ -65,4 +67,4 @@
 
 ## cʀεᴅɪᴛs
 
-- 💖 [яιzσεℓ](https://t.me/TheRizoel) 
+- 💖 [яιzσεℓ](https://t.me/TheRizoel) ғᴏʀ ʙᴀsᴇ ᴄᴏᴅᴇs
