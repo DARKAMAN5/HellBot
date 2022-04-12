@@ -46,15 +46,15 @@
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `SESSION`  =  Get this by using [ʀερℓιт](#ʀερℓιт)
 - `SUDO_USER`  = Sudo id
 
 ------
 
-### яερℓιт
+### ʀερℓιт
 - Open Repl Link.
 - Click on image.
-[![яερℓιт](https://te.legra.ph/file/327d4884b1281a028af2d.jpg)](https://replit.com/@KillerXaman/KillerXspam)
+[![яερℓιт](https://te.legra.ph/file/ed5a82d6686d953473f1e.jpg)](https://replit.com/@KillerXaman/KillerXspam)
 
 ------
 ## вяσтнεяs
