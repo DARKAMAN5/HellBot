@@ -66,4 +66,4 @@
 
 ## cʀεᴅɪᴛs
 
-- 💖 [яιzσεℓ](https://t.me/TheRizoel) ғᴏʀ ʙᴀsᴇ ᴄᴏᴅᴇs
+- 💖 [яιzσεℓ](https://t.me/TheRizoel) » ғᴏʀ ʙᴀsᴇ ᴄᴏᴅᴇs
