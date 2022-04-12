@@ -23,18 +23,19 @@
 ![Branch](https://img.shields.io/badge/Branch-main-orange)
 
 ------
-## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/KillerXspam)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/KillerSquadSpamBot)
+## тεℓεgяαм
+- [![sυρρσят](https://img.shields.io/badge/sυρρσят-brightgreen)](https://t.me/KillerXspam)
+- [![cнαηηεℓ](https://img.shields.io/badge/cнqηηεℓ-brightgreen)](https://t.me/KillerSquadSpamBot)
+- [![cнɪт cнαт](https://img.shields.io/badge/ᴄʜɪᴛ ᴄнαт-brightgreen)](https://t.me/SAB_KAA_KATEGA)
 
 ------
-## Deploy 🚀
+## ᴅερℓσү 🚀
 [![Heroku](https://te.legra.ph/file/f210abed7975ea59303cf.jpg)](#Deploy-To-Heroku)
 
 ------
-## Deploy To Heroku
+## ᴅερℓσү тσ нεяυкσ
 - Get All The Necessary Variables And Deploy To Heroku.
-- Some Mandatory Variables Are listed [Here](#Variables).
+- Some Mandatory Variables Are listed [нεяε](#Variables).
 - Star this repo.
 - 
 ------
@@ -44,23 +45,20 @@
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
 - `SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
-- `HNDLR`  =  Your command handler .
 - `SUDO_USER`  = Sudo id
 
 ------
-## Session
 
-### Repl
+### яερℓιт
 - Open Repl Link.
 - Click on image.
-- - [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@KillerXaman/KillerXspam?v=1)
+[![яερℓιт](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@KillerXaman/KillerXspam?v=1)
 
 ------
-## Disclaimer
-- We won't be responsible for any kind of ban due to this bot.
-- It's your concern if you spam and gets your account banned.
-- Forking Repo is fine. But if you edit something we will not provide any help.
-- In short, Fork At Your Own Risk.
+## вяσтнεяs
+- [кιℓℓεяXsнαнιᴅ](t.me/KillerXshahid)
+
+- [ᴛнσмαs sнεℓвү](t.me/THOM4S_SH3LBY)
 ------
 
 ## Credits
