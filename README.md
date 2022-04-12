@@ -54,7 +54,7 @@
 ### яερℓιт
 - Open Repl Link.
 - Click on image.
-[![яερℓιт](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@KillerXaman/KillerXspam)
+[![яερℓιт](https://te.legra.ph/file/327d4884b1281a028af2d.jpg)](https://replit.com/@KillerXaman/KillerXspam)
 
 ------
 ## вяσтнεяs
@@ -63,6 +63,6 @@
 - [ᴛнσмαs sнεℓвү](t.me/THOM4S_SH3LBY)
 ------
 
-## Credits
+## cʀεᴅɪᴛs
 
 - 💖 [яιzσεℓ](https://t.me/TheRizoel) 
