@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/078df46ef8b32f89aef40.jpg" alt="The-HellBot">
+  <img src="https://te.legra.ph/file/c6bdca585c164795977cd.jpg" alt="The-HellBot">
 </p>
 
 <h6 align="center">
@@ -11,7 +11,7 @@
 </h6>
 
 <h3 align="center">
-  <b>A Smooth & Fast Telegram Userbot Based On Telethon Bot Library.</b>
+  <b>𝙰 𝚂𝙼𝙾𝙾𝚃𝙷 𝙰𝙽𝙳 𝙵𝙰𝚂𝚃 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝚂𝙿𝙰𝙼 𝙱𝙾𝚃</b>
 </h3>
 
 ------
@@ -43,72 +43,22 @@
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ------
-## Deploy on Railway
-- Get all the necessary variables and deploy on railway.
-- Every mandatory variables are listed [Here](#Variables).
-- Fork & Star this repo.
-- Some commands might not work properly on railway.
-- Due to railway's privacy policy I removed railway button from repo. But you can get deploy guide in our [@HellBot_Chat](https://t.me/hellbot_chat). Type `#railway` to get deploy guide.
 
-------
-## Deploy Locally
-
-- Clone the repo. 
-
-`git clone https://github.com/The-HellBot/Plugins.git`
-- Open Cloned Folder.
-
-`cd Plugins`
-- Create VirtualEnv.
-
-`virtualenv -p /usr/bin/python3 venv`
-
-`. ./venv/bin/activate`
-- Install Requirements.
-
-`pip install -U -r requirements.txt`
-- Generate HELLBOT SESSION.
-
-`python hell_string.py`
-- Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
-- Finally Start Hêllẞø† By
-
-`bash start.sh`
-
-------
 ## Variables
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `HELLBOT_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
-- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
+- `SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
 - `HANDLER`  =  Your command handler.
-- `DATABASE_URL`  =  A Postgresql database url.
+- `SUDO_USER`  = Sudo id
 
 ------
 ## HellBot Session
 
 ### Repl
 - Open Repl Link.
-- Click on Green Play Button.
-- Wait for requirements to finish.
-- Fill API ID, API HASH, Phone number (with country code).
-- Paste the OTP received on Telegram.
-- If You have Enabled 2-Step Verification then fill your password.
-- Your HellBot Session Will be saved in your Telegram Saved Message.
-- There's a bug in repl which prints your input twice or more. You need to long tap and paste the required information in repl.
-- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@TheHellBot/HellBot?v=1)
-
-### Terminal
-- Open the terminal.
-- Paste this code.
-
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/The-HellBot/HellBot/master/hell_string.py && python3 hell_string.py`
-- Fill API ID, API HASH, Phone number (with country code).
-- Paste the OTP received on Telegram.
-- If You have Enabled 2-Step Verification then fill your password.
-- Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your HellBot Session Will be saved in your Telegram Saved Message.
+- Click on image.
+- - [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@TheHellBot/HellBot?v=1)
 
 ------
 ## Disclaimer
@@ -123,7 +73,4 @@
 
 ## Credits
 
-- 💖 [Lonami](https://github.com/Lonami) for [Telethon](https://github.com/LonamiWebs/Telethon)
-- 💖 Team HellBot
-
-------
+- 💖 [Rizoel](https://t.me/TheRizoel) 
