@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>†hê Hêllẞø† 🇮🇳</b>
+  <b>†hê кιℓℓεяxsραм 🇮🇳</b>
 </h1>
 
 <p align="center">
@@ -68,4 +68,4 @@
 
 ## Credits
 
-- 💖 [Rizoel](https://t.me/TheRizoel) 
+- 💖 [яιzσεℓ](https://t.me/TheRizoel) 
