@@ -30,17 +30,19 @@
 
 ------
 ## ᴅερℓσү 🚀
-[![Heroku](https://te.legra.ph/file/f210abed7975ea59303cf.jpg)](#Deploy-To-Heroku)
+[![Heroku](https://te.legra.ph/file/f210abed7975ea59303cf.jpg)](https://heroku.com/deploy?template=https://github.com/DARKAMAN5/Deploy-X)
+
 
 ------
 ## ᴅερℓσү тσ нεяυкσ
 - Get All The Necessary Variables And Deploy To Heroku.
-- Some Mandatory Variables Are listed [нεяε](#Variables).
+- Some Mandatory Variables Are listed [нεяε](#vαяιαвℓε).
 - Star this repo.
-- 
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARKAMAN5/Deploy-X)
+
 ------
 
-## Variables
+## vαяιαвℓεs
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
@@ -52,7 +54,7 @@
 ### яερℓιт
 - Open Repl Link.
 - Click on image.
-[![яερℓιт](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@KillerXaman/KillerXspam?v=1)
+[![яερℓιт](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@KillerXaman/KillerXspam)
 
 ------
 ## вяσтнεяs
