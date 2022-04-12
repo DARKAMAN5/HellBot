@@ -48,7 +48,7 @@
 - `APP_ID`  =  ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ [ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ ᴏʀɢ](https://my.telegram.org/auth)
 - `API_HASH`  =  ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғᴏʀᴍ [ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ ᴏʀɢ](https://my.telegram.org/auth)
 - `SESSION`  =  ɢᴇᴛ ᴛʜɪs ʙʏ ᴜsɪɴɢ [ʀερℓιт](#ʀερℓιт)
-- `SUDO_USER`  = [ᴜsᴇʀ ɪᴅ](t.me/YUKKI_X_ROBOT)
+- `SUDO_USER`  = [ᴜsᴇʀ ɪᴅ](https://t.me/YUKKI_X_ROBOT)
 
 ------
 
@@ -60,9 +60,9 @@
 
 ------
 ## вяσтнεяs
-- [кιℓℓεяXsнαнιᴅ](t.me/KillerXshahid)
+- [кιℓℓεяXsнαнιᴅ](https://t.me/KillerXshahid)
 
-- [ᴛнσмαs sнεℓвү](t.me/THOM4S_SH3LBY)
+- [ᴛнσмαs sнεℓвү](https://t.me/THOM4S_SH3LBY)
 ------
 
 ## cʀεᴅɪᴛs
