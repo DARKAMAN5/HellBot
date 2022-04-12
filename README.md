@@ -24,8 +24,8 @@
 
 ------
 ## тεℓεgяαм
-- [![sυρρσят](https://img.shields.io/badge/sυρρσят-brightgreen)](https://t.me/KillerXspam)
-- [![cнαηηεℓ](https://img.shields.io/badge/cнqηηεℓ-brightgreen)](https://t.me/KillerSquadSpamBot)
+- [sυρρσят](https://t.me/KillerXspam)
+- [cнαηηεℓ](https://t.me/KillerSquadSpamBot)
 - [cнɪт cнαт](https://t.me/SAB_KAA_KATEGA)
 
 ------
