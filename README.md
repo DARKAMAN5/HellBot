@@ -45,10 +45,10 @@
 
 ## vαяιαвℓεs
 
-- `APP_ID`  =  ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ ᴏʀɢ
-- `API_HASH`  =  ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғᴏʀᴍ ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ ᴏʀɢ
+- `APP_ID`  =  ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ [ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ ᴏʀɢ](https://my.telegram.org/auth)
+- `API_HASH`  =  ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғᴏʀᴍ [ᴍʏ ᴛᴇʟᴇɢʀᴀᴍ ᴏʀɢ](https://my.telegram.org/auth)
 - `SESSION`  =  ɢᴇᴛ ᴛʜɪs ʙʏ ᴜsɪɴɢ [ʀερℓιт](#ʀερℓιт)
-- `SUDO_USER`  = ᴜsᴇʀ ɪᴅ
+- `SUDO_USER`  = [ᴜsᴇʀ ɪᴅ](t.me/YUKKI_X_ROBOT)
 
 ------
 
